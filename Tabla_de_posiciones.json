@@ -1,0 +1,82 @@
+[
+    {
+        "_id": 1,
+        "equipo": "GJ_Colombia",
+        "posicion": "1-Portero",
+        "puntos": 0,
+        "partidos_jugados": 2,
+        "partidos_ganados": 2
+    },
+    {
+        "_id": 2,
+        "equipo": "GJ_Colombia",
+        "posicion": "2-cierre",
+        "puntos": 2,
+        "partidos_jugados": 2,
+        "partidos_ganados": 2
+    },
+    {
+        "_id": 3,
+        "equipo": "GJ_Colombia",
+        "posicion": "3-Ala derecha",
+        "puntos": 1,
+        "partidos_jugados": 2,
+        "partidos_ganados": 2
+    },
+    {
+        "_id": 4,
+        "equipo": "GJ_Colombia",
+        "posicion": "4-Ala izquierda",
+        "puntos": 1,
+        "partidos_jugados": 2,
+        "partidos_ganados": 2
+    },
+    {
+        "_id": 5,
+        "equipo": "GJ_Colombia",
+        "posicion": "5-Pívot",
+        "puntos": 1,
+        "partidos_jugados": 2,
+        "partidos_ganados": 2
+    },
+    {
+        "_id": 7,
+        "equipo": "WE_Colombia",
+        "posicion": "1-Portero",
+        "puntos": 0,
+        "partidos_jugados": 2,
+        "partidos_ganados": 0
+    },
+    {
+        "_id": 8,
+        "equipo": "WE_Colombia",
+        "posicion": "2-cierre",
+        "puntos": 0,
+        "partidos_jugados": 2,
+        "partidos_ganados": 0
+    },
+    {
+        "_id": 9,
+        "equipo": "WE_Colombia",
+        "posicion": "3-Ala derecha",
+        "puntos": 0,
+        "partidos_jugados": 2,
+        "partidos_ganados": 0
+    },
+    {
+        "_id": 10,
+        "equipo": "WE_Colombia",
+        "posicion": "4-Ala izquierda",
+        "puntos": 0,
+        "partidos_jugados": 2,
+        "partidos_ganados": 0
+    },
+    {
+        "_id": 11,
+        "equipo": "WE_Colombia",
+        "posicion": "5-Pívot",
+        "puntos": 2,
+        "partidos_jugados": 2,
+        "partidos_ganados": 0
+    }
+]

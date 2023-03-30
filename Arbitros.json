@@ -1,0 +1,36 @@
+[
+    {
+      "_id": "1",
+      "nombre": "Santiago",
+      "apellido": "Pineda",
+      "genero": "Masculino",
+      "nacionalidad": "Colombiano",
+      "Encuentro": "1"
+    },
+
+    {
+      "_id": "2",
+      "nombre": "Diego",
+      "apellido": "Parra",
+      "genero": "Masculino",
+      "nacionalidad": "Colombiano",
+      "Encuentro": "2"
+    },
+    {
+        "_id": "3",
+        "nombre": "Ana",
+        "apellido": "Prieto",
+        "genero": "Femenino",
+        "nacionalidad": "Colombiana",
+        "Encuentro": "1"
+    },
+    {
+        "_id": "4",
+        "nombre": "Merlina",
+        "apellido": "Torres",
+        "genero": "Femenino",
+        "nacionalidad": "Colombiana",
+        "Encuentro": "2"
+    }
+    
+]

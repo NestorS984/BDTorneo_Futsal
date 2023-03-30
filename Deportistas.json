@@ -1,0 +1,102 @@
+[
+    {
+        "_id": 1,
+        "nombre": "Pedro",
+        "apellido": "Perez",
+        "genero": "Masculino",
+        "nacionalidad": "Colombiano",
+        "equipo": "GJ_Colombia",
+        "edad": "29"
+    },
+
+    {
+        "_id": 2,
+        "nombre": "Carlos",
+        "apellido": "Jurado",
+        "genero": "Masculino",
+        "nacionalidad": "Colombiano",
+        "equipo": "GJ_Colombia",
+        " edad": "28"
+    },
+
+    {
+        "_id": 3,
+        "nombre": "Mario",
+        "apellido": "Portilla",
+        "genero": "Masculino",
+        "nacionalidad": "Colombiano",
+        "equipo": "GJ_Colombia",
+        " edad ": "27"
+    },
+
+    {
+        "_id": 4,
+        "nombre": "Pablo",
+        "apellido": "Velez",
+        "genero": "Masculino",
+        "nacionalidad": "Colombiano",
+        "equipo": "GJ_Colombia",
+        " edad ": "27"
+    },
+
+    {
+        "_id": 5,
+        "nombre": "Samuel",
+        "apellido": "Zapata",
+        "genero": "Masculino",
+        "nacionalidad": "Colombiano",
+        "equipo": "GJ_Colombia",
+        " edad ": "26"
+    },
+
+    {
+        "_id": 7,
+        "nombre": "Camilo",
+        "apellido": "Mendoza",
+        "genero": "Masculino",
+        "nacionalidad": "Colombiano",
+        "equipo": "WE_Colombia",
+        " edad ": "25"
+    },
+
+    {
+        "_id": 8,
+        "nombre": "Julian",
+        "apellido": "Cardenas",
+        "genero": "Masculino",
+        "nacionalidad": "Colombiano",
+        "equipo": "WE_Colombia",
+        " edad ": "24"
+    },
+
+    {
+        "_id": 9,
+        "nombre": "Luis",
+        "apellido": "Medez",
+        "genero": "Masculino",
+        "nacionalidad": "Colombiano",
+        "equipo": "WE_Colombia",
+        " edad ": "23"
+    },
+
+    {
+        "_id": 10,
+        "nombre": "Juan",
+        "apellido": "Salamanca",
+        "genero": "Masculino",
+        "nacionalidad": "Colombiano",
+        "equipo": "WE_Colombia",
+        " edad ": "22"
+    },
+    
+    {
+        "_id": 11,
+        "nombre": "Felipe",
+        "apellido": "Coronado",
+        "genero": "Masculino",
+        "nacionalidad": "Colombiano",
+        "equipo": "WE_Colombia",
+        " edad ": "21"
+    }
+
+]

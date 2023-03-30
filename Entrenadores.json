@@ -1,0 +1,19 @@
+[
+    {
+        "_id": 1,
+        "nombre": "Mauricio",
+        "apellido": "Campos",
+        "genero": "Masculino",
+        "nacionalidad": "Colombiano",
+        "equipo": "GJ_Colombia"
+    },
+    
+    {
+        "_id": 2,
+        "nombre": "Cesar",
+        "apellido": "Murillo",
+        "genero": "Masculino",
+        "nacionalidad": "Colombiano",
+        "equipo": "WE_Colombia"
+    }
+]

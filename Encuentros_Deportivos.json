@@ -1,0 +1,23 @@
+[
+    {
+        "_id": 1,
+        "fecha": "12/3/2023",
+        "hora": "17:00",
+        "lugar": "Medellín",
+        "equipo_local": "Ganador",
+        "equipo_visitante": "Perdedor",
+        "arbitros": 2,
+        "resultado": "2-0"
+    },
+
+    {
+        "_id": 2,
+        "fecha": "17/3/2023",
+        "hora": "17:00",
+        "lugar": "Putumayo",
+        "equipo_local": "Perdedor",
+        "equipo_visitante": "Ganador",
+        "arbitros": 2,
+        "resultado": "2-3"
+    }
+]
